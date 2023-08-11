@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📫 How to reach me: <a href="mailto:airbendervineeth@gmail.com">airbendervineeth@gmail.com</a>
---<a href='https://www.linkedin.com/in/vineeth-kutty-ba887a219/'>Linkedin</a>
+--Linkedin:<a href='https://www.linkedin.com/in/vineeth-kutty-ba887a219/'>Linkedin</a>
 - 💬 : <a href='https://slowandrarecooked.github.io'>Portfolio</a>
