@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me: <a href="mailto:airbendervineeth@gmail.com">airbendervineeth@gmail.com</a>
 -Linkedin:<a href='https://www.linkedin.com/in/vineeth-kutty-ba887a219/'>Linkedin</a>
-- 💬Portfolio:<a href='https://slowandrarecooked.github.io'>slowandrarecooked.github.io</a>
+- 💬Portfolio:<a href='https://slowandrarecooked.github.io'>https://slowandrarecooked.github.io</a>
