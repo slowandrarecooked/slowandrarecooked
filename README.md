@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📫 How to reach me: <a href="mailto:airbendervineeth@gmail.com">airbendervineeth@gmail.com</a>
+
 - <a href='https://www.linkedin.com/in/vineeth-kutty-ba887a219/'><img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' width='50px'/></a>
 <img src='https://github-readme-stats.vercel.app/api?username=slowandrarecooked'/>
