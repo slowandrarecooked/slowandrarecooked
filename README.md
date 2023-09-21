@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React,Node,Express,DSA**
 
-- 👨‍💻 All of my projects are available at [slowandrarecooked.github.io](slowandrarecooked.github.io)
+- 👨‍💻 All of my projects are available at [slowandrarecooked.github.io](https://slowandrarecooked.github.io)
 
 - 📫 How to reach me **airbendervineeth@gmail.com**
 
