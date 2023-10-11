@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Vineeth Kutty</h1>
 <h3 align="center">A MERN Stack Developer</h3>
-
+I'm a technophile who simply loves to create something from a few lines of code. Dabbling in the new frameworks and tech coming up in the world interests me a lot. I play video games on the regular, try to stay in shape, And would love to meet new people who have expertise in web development.
+<br/>
 - 🌱 I’m currently learning **React,Node,Express,DSA**
 
 - 👨‍💻 All of my projects are available at [slowandrarecooked.github.io](https://slowandrarecooked.github.io)
